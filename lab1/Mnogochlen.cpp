@@ -1,4 +1,4 @@
-#include "Polynominal.h"
+#include "Mnogochlen.h"
 
 using namespace std;
 
@@ -195,7 +195,7 @@ Mnogochlen::Mnogochlen() {
     this->head = this->end = NULL;
 }
 
-Mnogochlen::Mnogochlen(int power, double* arr) {     //передается мощность множества(максимальная степень)
+Mnogochlen::Mnogochlen(int power, double* arr) {     //пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
     this->head = this->end = NULL;
     for (int i = power; i >= 0; i--) {
         double coef;

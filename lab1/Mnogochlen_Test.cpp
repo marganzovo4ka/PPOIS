@@ -1,7 +1,7 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include "../ConsoleApplication1/Polynominal.h"
-#include "../ConsoleApplication1/Polynominal.cpp"
+#include "../ConsoleApplication1/Mnogochlen.h"
+#include "../ConsoleApplication1/Mnogochlen.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
