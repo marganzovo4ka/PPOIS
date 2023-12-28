@@ -1,0 +1,12 @@
+#pragma once
+#include "Deanery.h"	
+#include "Decan.h"	
+#include "Department.h"
+#include "Educator.h"
+#include "Group.h"
+#include "Mark.h"
+#include "Person.h"
+#include "Session_schedule.h"
+#include "Student.h"
+#include "Subject.h"
+#include "Zam_Decana.h"
